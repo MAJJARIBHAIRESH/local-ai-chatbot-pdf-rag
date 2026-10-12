@@ -1,0 +1,27 @@
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+
+# Node.js
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Uploaded documents and generated files
+uploads/
+documents/
+*.pdf
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
