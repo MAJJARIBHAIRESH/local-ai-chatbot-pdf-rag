@@ -10,3 +10,4 @@ React frontend and FastAPI backend
 Technical Report
 Read the technical report describing the design and implementation of this local PDF Retrieval-Augmented Generation (RAG) chatbot.
 View Technical Report (PDF)
+
